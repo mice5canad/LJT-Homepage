@@ -9,14 +9,14 @@ redirect_from:
 
 About me
 ======
-I am **Junteng Liu**, a first-year PhD candidate in Computer Science at the Hong Kong University of Science and Technology (HKUST), where I am a member of the [HKUST NLP Group](https://github.com/hkust-nlp) under the supervision of Professor [Junxian He](https://junxian-he.github.io/). I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024.
+I am **Junteng Liu**, a first-year PhD candidate in Computer Science at the Hong Kong University of Science and Technology (HKUST), where I am a member of the HKUST NLP Group under the supervision of Professor Junxian He. I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024.
 
 My research sits at the intersection of natural language processing and machine learning, with a focus on large language models: their reasoning abilities, their truthfulness and interpretability, and the hallucination problems of vision-language models. You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 Research interests
 ======
 * **LLM Reasoning and Reinforcement Learning** - building pipelines that synthesize verifiable reasoning data at scale for learning logical reasoning.
-* **Hallucination in Vision-Language Models** - investigating the perception bottleneck behind chart understanding failures in VLMs.
+* **Hallucination in Vision-Language Models** - investigating the perception bottleneck behind chart understanding failures of vision-language models.
 * **LLM Truthfulness and Interpretability** - probing the internal representations that separate truthful from untruthful generation in LLMs.
 
 Education
