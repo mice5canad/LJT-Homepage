@@ -36,7 +36,7 @@ Research experience
 
 Publications
 ======
-A complete list is also available on the [publications page](/publications/).
+A complete list is also available on the [publications page]({{ base_path }}/publications/).
 
 * **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond.** Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *arXiv*, 2025. (first author)
 * **On the Perception Bottleneck of VLMs for Chart Understanding.** Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *arXiv*, 2025. (first author)
